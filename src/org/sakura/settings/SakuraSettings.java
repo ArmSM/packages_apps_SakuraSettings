@@ -10,7 +10,7 @@ import com.android.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settingslib.search.SearchIndexable;
-
+.
 @SearchIndexable
 public class SakuraSettings extends DashboardFragment {
 
@@ -23,7 +23,7 @@ public class SakuraSettings extends DashboardFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.EVOLVER;
+        return MetricsEvent.SAKURA_SETTINGS;
     }
 
     @Override

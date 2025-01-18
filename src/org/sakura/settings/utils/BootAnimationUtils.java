@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.evolution.settings.utils;
+package org.sakura.settings.utils;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -44,7 +44,7 @@ public class BootAnimationUtils {
 
     private static final String[] BOOT_ANIMATION_FILES = {
         "/product/media/bootanimation.zip",
-        "/product/media/bootanimation_evo_reveal.zip",
+        "/product/media/bootanimation_sakura_reveal.zip",
         "/product/media/bootanimation_aokp.zip",
         "/product/media/bootanimation_cm.zip",
         "/product/media/bootanimation_ctos.zip",

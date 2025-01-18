@@ -1,9 +1,9 @@
 /*
- * SPDX-FileCopyrightText: 2024 The Evolution X Project
+ * SPDX-FileCopyrightText: 2024 The sakura X Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.settings.utils;
+package org.sakura.settings.utils;
 
 import android.app.ActivityManager;
 import android.app.AlertDialog;

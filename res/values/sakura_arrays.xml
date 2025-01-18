@@ -127,8 +127,8 @@
 
     <!-- Themes/Boot animation -->
    <string-array name="themes_boot_animation_entries">
-        <item>Evolution X</item>
-        <item>Evolution X (Reveal)</item>
+        <item>Project Sakura</item>
+        <item>Project Sakura (Reveal)</item>
         <item>AOKP</item>
         <item>CyanogenMod</item>
         <item>ctOS</item>
@@ -335,7 +335,7 @@
     </string-array>
 
     <string-array name="status_bar_logo_style_entries" translatable="false">
-        <item>@string/status_bar_logo_style_evolution</item>
+        <item>@string/status_bar_logo_style_sakura</item>
         <item>@string/status_bar_logo_style_android</item>
         <item>@string/status_bar_logo_style_adidas</item>
         <item>@string/status_bar_logo_style_alien</item>
