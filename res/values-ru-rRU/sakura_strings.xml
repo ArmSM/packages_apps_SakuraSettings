@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2019-2024 Evolution X
+     Copyright (C) 2019-2024 Project Sakura
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Evolver -->
-    <string name="evolver_dashboard_title">Evolver</string>
-    <string name="evolver_dashboard_summary">Развиваемся, как никогда прежде</string>
+    <!-- sakura -->
+    <string name="sakura_dashboard_title">sakura</string>
+    <string name="sakura_dashboard_summary">Развиваемся, как никогда прежде</string>
     <!-- Categories -->
     <string name="themes_title">Темы</string>
     <string name="themes_summary">Движок Monet, шрифты, значки</string>
@@ -25,7 +25,7 @@
     <string name="miscellaneous_title">Прочее</string>
     <string name="miscellaneous_summary">Опции разработчика, подмена устройства</string>
     <string name="about_title">О нас</string>
-    <string name="about_summary">Об Evolution X</string>
+    <string name="about_summary">Об Project Sakura</string>
     <!-- Themes -->
     <string name="themes_monet_category">Monet</string>
     <string name="themes_monet_title">Настройки Monet</string>
@@ -200,7 +200,7 @@
     <string name="status_bar_logo_position_left">Левая сторона</string>
     <string name="status_bar_logo_position_right">Правая сторона</string>
     <string name="status_bar_logo_style_title">Стиль логотипа</string>
-    <string name="status_bar_logo_style_evolution">Evolution X</string>
+    <string name="status_bar_logo_style_sakura">Project Sakura</string>
     <string name="status_bar_logo_style_android">Андроид</string>
     <string name="status_bar_logo_style_adidas">Adidas</string>
     <string name="status_bar_logo_style_alien">Чужой</string>
@@ -442,7 +442,7 @@
     <string name="navbar_invert_layout_title">Инверсия расположения элементов</string>
     <string name="navbar_invert_layout_summary">Инвертирует расположение панели навигации и другие элементы, такие как кнопка смены метода ввода</string>
     <!-- About -->
-    <string name="about_info">Evolution X стремится предоставить пользователям ощущение опыта использования Pixel с большим количеством дополнительных функций для вашего удобства</string>
+    <string name="about_info">Project Sakura стремится предоставить пользователям ощущение опыта использования Pixel с большим количеством дополнительных функций для вашего удобства</string>
     <string name="about_website_title">Сайт</string>
     <string name="about_website_summary">Нажмите здесь, чтобы посетить наш потрясающий веб-сайт!</string>
     <string name="about_twitter_summary">Нажмите здесь, чтобы посетить наш Twitter!</string>

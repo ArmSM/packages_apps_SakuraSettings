@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.settings.preferences;
+package org.sakura.settings.preferences;
 
 import android.content.Context;
 import android.os.SystemProperties;

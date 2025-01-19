@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.evolution.settings.preferences.colorpicker;
+package org.sakura.settings.preferences.colorpicker;
 
 import android.app.AlertDialog;
 import android.content.Context;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.evolution.settings.preferences;
+package org.sakura.settings.preferences;
 
 import android.content.Context;
 import android.os.SystemProperties;

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.evolution.settings.preferences;
+package org.sakura.settings.preferences;
 
 import android.content.Context;
 import android.graphics.drawable.AnimationDrawable;
@@ -29,7 +29,7 @@ import androidx.preference.PreferenceViewHolder;
 
 import com.android.settings.R;
 
-import org.evolution.settings.utils.BootAnimationUtils;
+import org.sakura.settings.utils.BootAnimationUtils;
 
 public class BootAnimationPreviewPreference extends Preference {
 
