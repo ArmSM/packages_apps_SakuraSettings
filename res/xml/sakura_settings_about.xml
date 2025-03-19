@@ -23,7 +23,6 @@
     <!-- Github -->
     <Preference
         android:title="@string/about_github_title"
-        android:icon="@drawable/ic_github"
         android:summary="@string/about_github_summary">
         <intent
             android:action="android.intent.action.VIEW"

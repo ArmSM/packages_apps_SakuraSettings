@@ -21,6 +21,17 @@
   <string name="sakura_dashboard_summary">Feels Like Spring..</string>
 
   <!-- ROM Info -->
+  <string name="thick_label">Thick</string>
+  <string name="thin_label">Thin</string>
+  <string name="gesture_navbar_radius_title">Gesture Navbar Radius</string>
+  <string name="about_github_summary">View the source on GitHub</string>
+  <string name="about_github_title">GitHub</string>
+  <string name="wifi_hotspot_client_limit_title">Client Limit</string>
+  <string name="wifi_hotspot_connected_clients_list_title">Connected Clients</string>
+  <string name="wifi_hotspot_blocked_clients_list_title">Blocked Clients</string>
+  <string name="wifi_hotspot_client_manager_footer_text">Manage hotspot clients here</string>
+  <string name="wifi_hotspot_hidden_ssid_title">Hide SSID</string>
+  <string name="wifi_hotspot_hidden_ssid_summary">Enable to hide SSID</string>
   <string name="sakura_about_info">About Project</string>
   <string name="sakura_about_info_summary_title">About Team</string>
   <string name="sakura_about_info_summary">A customised LineageOS. Its sole purpose is to provide a platform which is powered by Lineage and is more customisable than Lineage.</string> 
