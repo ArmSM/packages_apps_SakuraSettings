@@ -144,6 +144,14 @@
   <string name="custom_timeout_summary_2hours">2 hours</string>
   <string name="custom_timeout_summary_4hours">4 hours</string>
   <string name="custom_timeout_summary_8hours">8 hours</string> 
+  <!-- Wifi Hotspot -->
+  <string name="wifi_hotspot_client_manager_title">Wi-Fi Hotspot Client Manager</string>
+  <string name="wifi_hotspot_block_client_dialog_title">Block Client</string>
+  <string name="wifi_hotspot_block_client_dialog_text">Are you sure you want to block this client?</string>
+  <string name="wifi_hotspot_unblock_client_dialog_title">Unblock Client</string>
+  <string name="wifi_hotspot_unblock_client_dialog_text">Are you sure you want to unblock this client?</string>
+  <string name="wifi_hotspot_client_manager_summary">Manage clients connected to your Wi-Fi hotspot</string>
+  <string name="wifi_hotspot_client_manager_list_only_summary">View list of connected clients only</string>
   <!-- Gesture navbar length -->
   <string name="gesture_navbar_length_title">Pill length</string>
   <string name="short_label">Short</string>
