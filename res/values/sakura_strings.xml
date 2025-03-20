@@ -163,6 +163,10 @@
   <string name="wifi_hotspot_unblock_client_dialog_text">Are you sure you want to unblock this client?</string>
   <string name="wifi_hotspot_client_manager_summary">Manage clients connected to your Wi-Fi hotspot</string>
   <string name="wifi_hotspot_client_manager_list_only_summary">View list of connected clients only</string>
+  <plurals name="wifi_hotspot_client_limit_summary"> 
+     <item quantity="other">Up to <xliff:g id="device_num">%1$d</xliff:g> devices can connect to this hotspot</item>
+     <item quantity="one">Up to <xliff:g id="device_num">%1$d</xliff:g> device can connect to this hotspot</item>
+  </plurals>
   <!-- Gesture navbar length -->
   <string name="gesture_navbar_length_title">Pill length</string>
   <string name="short_label">Short</string>
