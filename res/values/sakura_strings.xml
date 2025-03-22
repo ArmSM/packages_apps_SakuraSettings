@@ -583,4 +583,16 @@
 
     <string name="wifi_hotspot_client_limit_title">Wi-Fi Hotspot Client Limit</string>
 
+    <string name="usb_default_config_title">Default USB Configuration</string>
+    <string name="usb_default_config_summary">Choose what happens when USB is connected</string>
+
+    <string name="hide_developer_status_title">Hide Developer Status</string>
+    <string name="hide_developer_status_summary">Remove developer status from About Phone</string>
+
+    <string name="no_storage_restrict_title">No Storage Restriction</string>
+    <string name="no_storage_restrict_summary">Disable storage restrictions for background apps</string>
+
+    <string name="hide_screen_capture_status_title">Hide Screenshot Notification</string>
+    <string name="hide_screen_capture_status_summary">Don’t show notifications for screenshots</string>
+
 </resources>

@@ -401,7 +401,7 @@ public class MonetSettings extends DashboardFragment implements
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.SAKURA;
+        return MetricsProto.MetricsEvent.SAKURA_SETTINGS;
     }
 
     @Override

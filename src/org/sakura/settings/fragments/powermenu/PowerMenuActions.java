@@ -218,6 +218,6 @@ public class PowerMenuActions extends SettingsPreferenceFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.SAKURA;
+        return MetricsProto.MetricsEvent.SAKURA_SETTINGS;
     }
 }
