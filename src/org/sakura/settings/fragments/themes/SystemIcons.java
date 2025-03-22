@@ -107,7 +107,7 @@ public class SystemIcons extends SettingsPreferenceFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.SAKURA;
+        return MetricsEvent.SAKURA_SETTINGS;
     }
 
     @Override

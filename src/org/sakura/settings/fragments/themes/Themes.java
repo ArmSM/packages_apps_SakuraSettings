@@ -111,7 +111,7 @@ public class Themes extends SettingsPreferenceFragment implements
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.SAKURA;
+        return MetricsEvent.SAKURA_SETTINGS;
     }
 
     public static final BaseSearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
